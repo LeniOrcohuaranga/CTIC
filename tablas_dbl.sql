@@ -1,5 +1,8 @@
 --creacion de tablas del data warehouse
 create table clientes (
 nombre varchar2(50),
-dni varchar((8)
-))
+dni char(8)
+)
+--autora: Leni_Luz
+
+--tercer cambio
