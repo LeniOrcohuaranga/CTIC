@@ -3,6 +3,9 @@ create table clientes (
 nombre varchar2(50),
 dni char(8)
 )
---autora: Leni_Luz
+tablespace tmp;
 
---tercer cambio
+
+--cuarto cambio
+
+--quinto cambio
